@@ -33,10 +33,10 @@ public class Main {
 
         //exibe
         System.out.printf("TRIANGULO: %.3f%n" , areaTrianguloRetangulo );
-        System.out.printf("CIRCULO:  %.3f%n" , areaCirculo );
+        System.out.printf("CIRCULO: %.3f%n" , areaCirculo );
         System.out.printf("TRAPEZIO: %.3f%n" , areaTrapezio );
         System.out.printf("QUADRADO: %.3f%n" , areaQuadrado );
-        System.out.printf("RETANGULO %.3f%n" , areaRetangulo );
+        System.out.printf("RETANGULO: %.3f%n" , areaRetangulo );
 
 
 
